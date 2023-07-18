@@ -1,0 +1,8 @@
+sources:
+  - name: FooService
+    handler:
+      thrift:
+        idl: ./foo.thrift
+        hostName: localhost
+        port: 3000
+        serviceName: FooService

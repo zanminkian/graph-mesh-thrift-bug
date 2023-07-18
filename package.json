@@ -1,0 +1,10 @@
+{
+  "name": "graphql-mesh-thrift-bug",
+  "version": "1.0.0",
+  "packageManager": "pnpm@8.6.8",
+  "dependencies": {
+    "@graphql-mesh/cli": "^0.85.3",
+    "@graphql-mesh/thrift": "^0.94.6",
+    "graphql": "^16.7.1"
+  }
+}
